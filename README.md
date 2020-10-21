@@ -5,7 +5,7 @@
 Analysis of 25,000 IMDb reviews and prediction of sentiment as 'positive' or 'negative' using the LongShortTermMemory model, the Keras and TensorFlow libraries + Implemented Hyper Parameter Tuning.
 
 I have also made a Web App to showcase the result model, where you enter text to see if it is positive or negative.
-[Link to the application]()
+[Link to the application](https://sentiment-emotional-analysis.herokuapp.com/)
 
 The final accuracy before Hyper Parameter Tuning is:	**91 %**
 
